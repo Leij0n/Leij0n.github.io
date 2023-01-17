@@ -2,11 +2,15 @@
 {
   outline:none;
   border:none;
-  
+  color:#44149c;
 }
 body
 {
 	background-color:#121211;
 	color:#44149c;
+}
+#top
+{
+	margin-top:40vh;
 }
 
