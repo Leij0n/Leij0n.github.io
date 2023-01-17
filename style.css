@@ -1,12 +1,15 @@
-.RickRoll button
+.vidare button
 {
   outline:none;
   border:none;
-  width: 10vw;
-  height: 30vh;
-  padding-right:10px;
-  padding-left:10px;
-  padding-bottom:10px;
-  padding-top:10px;
+  
 }
-margin-top: 
+body
+{
+	background-color:#121211;
+	color:#44149c;
+}
+#top
+{
+	margin-top:40vh;
+}
