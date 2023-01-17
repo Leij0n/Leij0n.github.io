@@ -1,0 +1,1 @@
+<button onclick="href='play.html'">Click here to go to example.com</button>
