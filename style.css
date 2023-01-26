@@ -14,3 +14,8 @@ body
   background-color:#44149c;
   color:white;
 }
+
+h1 {
+	color:#44149c;
+	text-decoration: none;
+}
