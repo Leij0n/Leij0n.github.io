@@ -1,0 +1,129 @@
+@charset "iso-8859-1";
+/* CSS Document */
+/*Mall */
+#headArea {
+	border: 1px solid #FFF;
+	width: 970px;
+}
+#logoArea {
+	float: left;
+}
+#menuArea {
+	padding: 0px;
+	text-decoration: none;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	height: 90px;
+	margin-top: 16px;
+}
+ul {
+	margin-top: 30px;
+}
+body {
+	width: 970px;
+	background-color: #E5E5E5;
+	margin: auto;
+}
+#mainArea {
+	background-color: #FFF;
+	text-decoration: none;
+	float: none;
+}
+
+#menuArea li {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	margin-left: 35px;
+	list-style-type: none;
+	float: left;
+	margin-top: 12px;
+	font-size: 35px;
+}
+
+
+
+
+/*Index */
+#headArea #infoArea img {
+	margin-top: 0px;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+	
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#infoArea #infoText p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+#infoText {
+	width: 810px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 80px;
+}
+
+
+
+/*3D-Printer */
+#infoText3D-1{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 80px;
+	margin-right: 200px;
+	;
+	
+}
+
+#mainArea #infoArea h1 {
+	margin-left: 80px;
+}
+#infoText3D-1 p img {
+	margin-left: 30px;
+}
+
+#infoText3D-2{
+	margin-left: 80px;
+	margin-top: 100px;
+	margin-right: 200px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.infoText3D-3 img {
+	margin-left: 30px;
+}
+
+
+#infoText3D-3 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	margin-top: 100px;
+	margin-right: 200px;
+	margin-left: 80px;
+}
+
+/*Om */
+.kortkommand {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	margin-left: 40px;
+	font-size: 20px;
+	
+}
+ #kontaktArea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 40px;
+	
+}
